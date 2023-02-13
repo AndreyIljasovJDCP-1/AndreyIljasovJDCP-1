@@ -1,7 +1,15 @@
-[Andrey Iljasov README.md](https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1.git)
+<h1>
+  Привет!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>  
 
-### Привет, я **Андрей Ильясов**, начинающий Java-разработчик.
-Заканчиваю [курс "Java-разработка для начинающих"](https://cat.2035.university/rall/course/11144/?orgs=1369) в **НЕТОЛОГИИ.**  
+Я **Андрей Ильясов**, начинающий Java-разработчик. ![Codewars](https://www.codewars.com/users/AndyJD/badges/micro)  
+Заканчиваю [курс "Java-разработка для начинающих"](https://cat.2035.university/rall/course/11144/?orgs=1369) в **НЕТОЛОГИИ.**
+
+### Вот мои работы:
+- [Дипломная работа «Поисковая система»](https://github.com/AndreyIljasovJDCP-1/pcs-final-diplom.git)
+- Итоговая работа по **Spring Framework.**  ["RESTFul API Права пользователей."]()
+- 
 
 
 
