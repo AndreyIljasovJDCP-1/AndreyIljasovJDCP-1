@@ -6,12 +6,12 @@
 ## Я **Андрей Ильясов**, начинающий Java-разработчик. ![Codewars][1]   
 ### Заканчиваю [курс «Java-разработка для начинающих»][2] в **НЕТОЛОГИИ**![Лого][3]
 
-### Вот мои работы:
+### Вот примеры моих работ:
 - [Дипломная работа «Поисковая система».][4]
-- Итоговая работа по **Spring Framework.** [«RESTFul API Права пользователей»][5]
-- [Java Core. Курсовая работа «Менеджер личных финансов».][8]
-- [Курсовая работа. «Менеджер задач».][9]
-- Факультативная работа по основам Java. [Игра «Морской бой».][6]
+- [Итоговая работа по **Spring Framework.** «RESTFul API Права пользователей»][5]
+- [Курсовая работа «Менеджер личных финансов».][8]
+- [Курсовая работа «Менеджер задач».][9]
+- [Факультативная работа по основам Java. Игра «Морской бой».][6]
 - [Домашние работы по курсу.][7]
 
 
@@ -33,6 +33,7 @@
 [2]: https://cat.2035.university/rall/course/11144/?orgs=1369
 [3]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/%D0%BD%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%2020.png 
 [4]: https://github.com/AndreyIljasovJDCP-1/pcs-final-diplom.git
+[5]: https://github.com/AndreyIljasovJDCP-1/pcs-final-diplom.git
 [6]: https://github.com/AndreyIljasovJDCP-1/BattleShip.git
 [7]: https://github.com/AndreyIljasovJDCP-1/HomeWorks.git 
 [8]: https://github.com/AndreyIljasovJDCP-1/CourseProjectJavaCore.git
