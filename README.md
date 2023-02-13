@@ -4,7 +4,7 @@
 </h1>  
 
 Я **Андрей Ильясов**, начинающий Java-разработчик. ![Codewars](https://www.codewars.com/users/AndyJD/badges/micro)  
-Заканчиваю [курс "Java-разработка для начинающих"](https://cat.2035.university/rall/course/11144/?orgs=1369) в **НЕТОЛОГИИ.**
+Заканчиваю [курс "Java-разработка для начинающих"](https://cat.2035.university/rall/course/11144/?orgs=1369) в **НЕТОЛОГИИ.** 
 
 ### Вот мои работы:
 - [Дипломная работа «Поисковая система»](https://github.com/AndreyIljasovJDCP-1/pcs-final-diplom.git)
