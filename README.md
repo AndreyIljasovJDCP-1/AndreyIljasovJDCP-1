@@ -17,7 +17,10 @@
 - [Факультативная работа по основам Java. Игра «Морской бой».][6]
 - [Домашние работы по курсу.][7]
 
-#### *Дополнительно решал задачи на Codewars ![Codewars statistic]()*
+#### *Дополнительно решал задачи на [Codewars](https://www.codewars.com/)*  
+
+<img src="https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/Codewars_statistic.jpg" title="Codewars" alt="Codewars"/>
+
 
 ### Сертификаты НЕТОЛОГИИ![Лого][3]:  
 - **Основной курс.**  
