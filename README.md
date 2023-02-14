@@ -19,7 +19,7 @@
 
 #### *Дополнительно решал задачи на [Codewars](https://www.codewars.com/)*  
 
-<img src="https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/Codewars_statistic.jpg" title="Codewars" alt="Codewars"/>
+<img src="https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/Codewars_statistic1.jpg" title="Codewars" alt="Codewars"/>
 
 
 ### Сертификаты НЕТОЛОГИИ![Лого][3]:  
