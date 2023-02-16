@@ -48,7 +48,7 @@
 
 [1]: https://www.codewars.com/users/AndyJD/badges/micro
 [2]: https://cat.2035.university/rall/course/11144/?orgs=1369
-[3]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/%D0%BD%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%2020.png 
+[3]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/%D0%BD%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%2025%20transparent.png
 [4]: https://github.com/AndreyIljasovJDCP-1/pcs-final-diplom.git
 [5]: https://github.com/AndreyIljasovJDCP-1/RESTFulAPI.git
 [6]: https://github.com/AndreyIljasovJDCP-1/BattleShip.git
