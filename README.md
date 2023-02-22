@@ -20,11 +20,12 @@
 ### Сертификаты НЕТОЛОГИИ![Лого][3]  
 - **Основной курс.**  
     - [Java-разработка для начинающих.][sert1]
+    - [Web, Spring & Spring MVC][sert1-1]
 - *Дополнительные курсы:*  
     - [Основы разработки на Java][sert2]
     - [Основы верстки сайта HTML/CSS][sert3]
     - [Первые шаги в JavaScript][sert4]  
-    - [Основы SQL]
+    - [Основы SQL][sert5]
 
 
 #### *Дополнительно решаю задачи на [Codewars](https://www.codewars.com/)*  
@@ -56,9 +57,11 @@
 [8]: https://github.com/AndreyIljasovJDCP-1/CourseProjectJavaCore.git
 [9]: https://github.com/AndreyIljasovJDCP-1/CourseProjectPattern.git
 [sert1]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/certificate.pdf
+[sert1-1]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/1241ecb23dbb7d25f4b72946a7742e156225d587/certificate%20Spring.pdf
 [sert2]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/e24de16b40f08642a87cb989374d1e9b7ed41e3d/certificate%20JDFREE.pdf
 [sert3]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/certificate%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B8%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20HTML_CSS.pdf
 [sert4]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/e24de16b40f08642a87cb989374d1e9b7ed41e3d/certificate_JavaScript.pdf
+[sert5]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/1241ecb23dbb7d25f4b72946a7742e156225d587/certificate%20SQL.pdf
 
 
 
