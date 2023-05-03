@@ -30,7 +30,7 @@
 
 #### *А еще я решаю задачки на [Codewars](https://www.codewars.com/)*  
 
-<img src="https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/Codewars_statistic.jpg" title="Codewars" alt="Codewars"/>
+<img src="https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/Codewars_statistic%20May.jpg" title="Codewars" alt="Codewars"/>
 
 
 
