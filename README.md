@@ -5,9 +5,7 @@
 
 ## Я **Андрей Ильясов**, начинающий Java-разработчик. ![Codewars][1]
 
-## Закончил [курс «Java-разработка для начинающих»][2] в **НЕТОЛОГИИ**![Лого][3]
-
-**В рамках курса за время обучения в было решено 55 заданий**  
+## Закончил [курс «Java-разработка для начинающих»][2] в **НЕТОЛОГИИ**![Лого][3] 
 
 ### Вот примеры моих работ по курсу:
 - [Дипломная работа «Поисковая система».][4]
@@ -39,6 +37,8 @@
 
 <img src="Codewars _statistic June.jpg" title="Codewars" alt="Codewars"/>
 
+- [Сборник задач Codewars.][codewars1]
+- [Сборник задач Codewars на кодирование/декодирование.][codewars2]
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -63,7 +63,8 @@
 [11]: https://github.com/AndreyIljasovJDCP-1/RoundSystemSchedule.git
 [12]: https://github.com/AndreyIljasovJDCP-1/TelegramBotNASA.git
 [13]: https://github.com/AndreyIljasovJDCP-1/FibonacciIterator.git
-
+[codewars1]: https://github.com/AndreyIljasovJDCP-1/CodewarsTasks.git
+[codewars2]: https://github.com/AndreyIljasovJDCP-1/Encrypt.git
 [sert1]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/certificate.pdf
 [sert1-1]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/1241ecb23dbb7d25f4b72946a7742e156225d587/certificate%20Spring.pdf
 [sert2]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/e24de16b40f08642a87cb989374d1e9b7ed41e3d/certificate%20JDFREE.pdf
