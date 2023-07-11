@@ -9,13 +9,20 @@
 
 **В рамках курса за время обучения в было решено 55 заданий**  
 
-### Вот примеры моих работ:
+### Вот примеры моих работ по курсу:
 - [Дипломная работа «Поисковая система».][4]
 - [Итоговая работа по модулю **Spring**. «RESTFul API Права пользователей»][5]
 - [Курсовая работа «Менеджер личных финансов».][8]
 - [Курсовая работа «Менеджер задач».][9]
-- [Факультативная работа по основам Java. Игра «Морской бой».][6]
 - [Домашние работы по курсу.][7]
+
+### Вот примеры моих самостоятельных проектов:
+- [Проект WEB-Shop.][10]
+- [Генерация расписания игр по круговой системе.][11]
+- [Телеграм-бот NASA API.][12]
+- [Итератор Фибоначчи.][13]
+- [Игра «Морской бой».][6]
+
 
 ### Сертификаты НЕТОЛОГИИ![Лого][3]  
 - **Основной курс.**  
@@ -43,10 +50,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 
-
-
-
-
 [1]: https://www.codewars.com/users/AndyJD/badges/micro
 [2]: https://cat.2035.university/rall/course/11144/?orgs=1369
 [3]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/%D0%BD%D0%B5%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%2025%20transparent.png
@@ -56,6 +59,11 @@
 [7]: https://github.com/AndreyIljasovJDCP-1/HomeWorks.git 
 [8]: https://github.com/AndreyIljasovJDCP-1/CourseProjectJavaCore.git
 [9]: https://github.com/AndreyIljasovJDCP-1/CourseProjectPattern.git
+[10]: https://github.com/AndreyIljasovJDCP-1/WebShopProject.git
+[11]: https://github.com/AndreyIljasovJDCP-1/RoundSystemSchedule.git
+[12]: https://github.com/AndreyIljasovJDCP-1/TelegramBotNASA.git
+[13]: https://github.com/AndreyIljasovJDCP-1/FibonacciIterator.git
+
 [sert1]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/main/certificate.pdf
 [sert1-1]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/1241ecb23dbb7d25f4b72946a7742e156225d587/certificate%20Spring.pdf
 [sert2]: https://github.com/AndreyIljasovJDCP-1/AndreyIljasovJDCP-1/blob/e24de16b40f08642a87cb989374d1e9b7ed41e3d/certificate%20JDFREE.pdf
