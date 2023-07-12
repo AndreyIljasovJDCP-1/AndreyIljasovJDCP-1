@@ -33,12 +33,13 @@
     - [Основы SQL][sert5]
 
 
-#### *А еще я решаю задачки на [Codewars](https://www.codewars.com/)*  
+#### *А еще я решаю задачки на [Codewars](https://www.codewars.com/):* 
+-  [Сборник задач Codewars.][codewars1]
+-  [Сборник задач Codewars **Cipher/Encrypt.**][codewars2]
 
 <img src="Codewars _statistic June.jpg" title="Codewars" alt="Codewars"/>
 
-- [Сборник задач Codewars.][codewars1]
-- [Сборник задач Codewars на кодирование/декодирование.][codewars2]
+
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
